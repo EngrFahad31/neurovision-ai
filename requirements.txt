@@ -1,0 +1,11 @@
+streamlit
+numpy
+pandas
+matplotlib
+seaborn
+mne
+PyWavelets
+scipy
+scikit-learn
+joblib
+reportlab
